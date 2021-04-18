@@ -1,4 +1,3 @@
-##https://github.com/AngelSecurityTeam
 from subprocess import check_output
 import os
 from platform import system as systemos, architecture
